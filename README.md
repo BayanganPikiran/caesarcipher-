@@ -1,0 +1,1 @@
+This program takes full messages and a prompt on how many characters to shift, then returns an encoded or decoded message based on input.
